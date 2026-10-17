@@ -6,9 +6,8 @@
         "stitch": {
             "httpUrl": "https://stitch.googleapis.com/mcp",
             "headers": {
-                "X-Goog-Api-Key": "YOUR_API_KEY"
+                "X-Goog-Api-Key": "AQ.Ab8RN6K46FQMpfXfuSVR392r-_mtiXpxiQSACdzAD4gSPOpYLg"
             },
             "timeout": 300000
         }
     }
-}
